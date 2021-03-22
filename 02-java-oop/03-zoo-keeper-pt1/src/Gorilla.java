@@ -1,3 +1,4 @@
+
 public class Gorilla extends Mammal {
 
     private int defaultEnergyLevel = 100;
@@ -8,7 +9,7 @@ public class Gorilla extends Mammal {
 
     public void throwSomething() {
         this.energyLevel -= 5;
-        System.out.println("Gorilla throws some stuff.");
+        System.out.println("Gorilla throws some poo.");
     }
 
     public void climb() {

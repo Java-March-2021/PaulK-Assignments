@@ -20,6 +20,6 @@ public class StringsApplication {
 	
 	@RequestMapping("/random")
 	public String stringTwo() {
-		return "Spring Boot is great! So oesy to just respond with strings";
+		return "Spring Boot is great! So easy to just respond with strings";
 	}
 }

@@ -1,4 +1,4 @@
-package controller;
+package com.paul.hellohuman.ontroller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
